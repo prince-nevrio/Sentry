@@ -6,7 +6,7 @@ plugins {
 
 android {
     compileSdk 32
-    namespace 'me.lucky.sentry'
+    namespace 'me.ttsys3.com'
 
     defaultConfig {
         applicationId "me.lucky.sentry"

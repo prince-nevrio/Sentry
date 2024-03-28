@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Sentry</string>
+    <string name="app_name">ttsys3</string>
     <string name="usb_data_signaling">Передача даних USB</string>
     <string name="usb_data_signaling_description">Якщо вимкнено, з’єднання даних через USB (за винятком функцій заряджання) заборонено.</string>
     <string name="usb_data_signaling_ctl">Контролер</string>
